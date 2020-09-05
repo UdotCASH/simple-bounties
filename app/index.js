@@ -530,7 +530,7 @@ const tokenABI = [
 	}
 ]
 let token
-let tokenAddress = "0x0f54093364b396461AAdf85C015Db597AAb56203"
+let tokenAddress = "0x92e52a1a235d9a103d970901066ce910aacefd37"
 let tokenDecimals
 let tokenSymbol
 
